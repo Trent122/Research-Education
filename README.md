@@ -36,4 +36,15 @@ https://ethereum.org/en/developers/docs/intro-to-ethereum/
 ```Intro To Ether```
 https://ethereum.org/en/developers/docs/intro-to-ether/ 
 
+```Developer Frameworks for Ethereum```
+
+Truffle - A development environment, testing framework, build pipeline, and other tools.
+https://www.trufflesuite.com/
+https://github.com/trufflesuite/truffle
+
+```Hardhat - Ethereum development environment for professionals```
+https://hardhat.org/
+https://github.com/nomiclabs/hardhat
+
+
 

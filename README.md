@@ -49,4 +49,6 @@ https://github.com/nomiclabs/hardhat
 ```Solidity Developer Survey 2020 Results```
 https://blog.soliditylang.org/2021/01/26/solidity-developer-survey-2020-results/
 
+```Ethereum End-Game```
+https://vitalik.ca/general/2021/12/06/endgame.html
 

@@ -54,3 +54,6 @@ https://vitalik.ca/general/2021/12/06/endgame.html
 
 ```GitCoin-Bug Bounties```
 https://gitcoin.co/explorer?applicants=ALL&order_by=null 
+
+```Trent Manager Substack Free News Letter```
+https://substack.com/profile/31951096-trent-manager-tvmdeveth

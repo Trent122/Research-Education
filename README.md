@@ -59,3 +59,4 @@ https://gitcoin.co/explorer?applicants=ALL&order_by=null
 https://substack.com/profile/31951096-trent-manager-tvmdeveth
 
 ```MEV PDF```
+[MEV101.pdf](https://github.com/Trent122/Research-Education/files/7739586/MEV101.pdf)

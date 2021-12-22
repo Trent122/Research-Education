@@ -60,3 +60,9 @@ https://substack.com/profile/31951096-trent-manager-tvmdeveth
 
 ```MEV PDF```
 [MEV101.pdf](https://github.com/Trent122/Research-Education/files/7739586/MEV101.pdf)
+
+```Best Smart contract Solidity Practices```
+https://yos.io/2019/11/10/smart-contract-development-best-practices/
+
+```Ethereum Smart Contract Best Practices```
+https://consensys.github.io/smart-contract-best-practices/general_philosophy/

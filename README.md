@@ -67,4 +67,4 @@ https://yos.io/2019/11/10/smart-contract-development-best-practices/
 ```Ethereum Smart Contract Best Practices```
 https://consensys.github.io/smart-contract-best-practices/general_philosophy/
 
-fg
+

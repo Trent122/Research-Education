@@ -3,6 +3,13 @@ This repository is strictly for educational services.
 
 ![blockchain-education-certificates](https://user-images.githubusercontent.com/59753390/136677860-8e3c8ada-718e-4992-9e1c-3b26bf290ff4.jpg)
 
+```Solidity Best Practices```
+https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/solidity-best-practices/#:~:text=What%20Are%20The%20Solidity%20Best%20Practices%3F%20In%20general%2C,essentially%20a%20formalized%20version%20of%20a%20%E2%80%9Cbest%20practice%E2%80%9D.
+
+```Guard Check```
+https://fravoll.github.io/solidity-patterns/guard_check.html
+
+
 ```Weekly In Ethereum News```
 https://weekinethereumnews.com/
 
@@ -66,5 +73,6 @@ https://yos.io/2019/11/10/smart-contract-development-best-practices/
 
 ```Ethereum Smart Contract Best Practices```
 https://consensys.github.io/smart-contract-best-practices/general_philosophy/
+
 
 
